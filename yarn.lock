@@ -3859,15 +3859,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nrwl/devkit@npm:18.1.1":
-  version: 18.1.1
-  resolution: "@nrwl/devkit@npm:18.1.1"
-  dependencies:
-    "@nx/devkit": 18.1.1
-  checksum: 66af0a04a4d5e8031b6b3f7c4f0096646125dbdba9da783c548c2058f5d002d1a928487bb58287f512c7d32903e20287c5686b82fabb02f1c182dadb1ecab71b
-  languageName: node
-  linkType: hard
-
 "@nrwl/devkit@npm:18.2.1":
   version: 18.2.1
   resolution: "@nrwl/devkit@npm:18.2.1"
@@ -3916,25 +3907,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nx/devkit@npm:*, @nx/devkit@npm:18.1.1":
-  version: 18.1.1
-  resolution: "@nx/devkit@npm:18.1.1"
-  dependencies:
-    "@nrwl/devkit": 18.1.1
-    ejs: ^3.1.7
-    enquirer: ~2.3.6
-    ignore: ^5.0.4
-    semver: ^7.5.3
-    tmp: ~0.2.1
-    tslib: ^2.3.0
-    yargs-parser: 21.1.1
-  peerDependencies:
-    nx: ">= 16 <= 18"
-  checksum: 12d0e85d9b06112577fd8c1a9b76ccbeb1c7e8714012fbdef7bc0053e5017ff2679cc2ef4a03b2e718dcb934112e4c2067dead3253dd9d172618c005e13bd756
-  languageName: node
-  linkType: hard
-
-"@nx/devkit@npm:18.2.1":
+"@nx/devkit@npm:*, @nx/devkit@npm:18.2.1":
   version: 18.2.1
   resolution: "@nx/devkit@npm:18.2.1"
   dependencies:
@@ -9627,14 +9600,14 @@ __metadata:
   linkType: hard
 
 "eslint-plugin-eslint-plugin@npm:^5.2.1":
-  version: 5.3.0
-  resolution: "eslint-plugin-eslint-plugin@npm:5.3.0"
+  version: 5.5.0
+  resolution: "eslint-plugin-eslint-plugin@npm:5.5.0"
   dependencies:
     eslint-utils: ^3.0.0
     estraverse: ^5.3.0
   peerDependencies:
     eslint: ">=7.0.0"
-  checksum: 407aa4072cbddca6efc11f063686ebe6832ba68ff325f1c8ae90ec2f2c3ad92ad06aa778bf536eff088cb554f91c689147a9a80d346963794810b6b8043bf27f
+  checksum: 8b803a2ab180a0e6e5ec755b6129504d78ac46cc69347ed6fc1d0a4da22e8161a897310ea6e74835220066e0d5bb4bf91230c9c387f2c0b8d99d86f641eb3870
   languageName: node
   linkType: hard
 
