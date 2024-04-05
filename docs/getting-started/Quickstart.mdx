@@ -35,9 +35,6 @@ Next, create an `eslint.config.js` config file in the root of your project, and 
 ```js title="eslint.config.js"
 // @ts-check
 
-import eslint from '@eslint/js';
-import tseslint from 'typescript-eslint';
-
 export default tseslint.config(
   eslint.configs.recommended,
   ...tseslint.configs.recommended,
